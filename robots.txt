@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faishalmhd.github.io/portofolio-faishal/sitemap.xml
