@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://biodata-seven-alpha.vercel.app/sitemap.xml
+Sitemap: https://biodata-seven-alpha.vercel.app/sitemap-faishal.xml
